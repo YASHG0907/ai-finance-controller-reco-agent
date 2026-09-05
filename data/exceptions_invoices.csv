@@ -1,0 +1,16 @@
+invoice_id,invoice_date,party_name,invoice_amount,reason
+INV0046,2026-08-15,Nakoda Fabrics,57215.57,No matching bank transaction found -- likely unpaid/pending
+INV0033,2026-08-03,Deshmukh & Co,39008.91,No matching bank transaction found -- likely unpaid/pending
+INV0057,2026-08-18,Deshmukh & Co,72794.76,No matching bank transaction found -- likely unpaid/pending
+INV0045,2026-08-13,Nakoda Fabrics,57264.24,No matching bank transaction found -- likely unpaid/pending
+INV0011,2026-08-09,Anand Motors,41014.45,No matching bank transaction found -- likely unpaid/pending
+INV0031,2026-08-25,Deshmukh & Co,80306.65,No matching bank transaction found -- likely unpaid/pending
+INV0002,2026-08-05,Patil Logistics,24397.39,No matching bank transaction found -- likely unpaid/pending
+INV0061,2026-08-06,Nakoda Fabrics,11862.87,No matching bank transaction found -- likely unpaid/pending
+INV0067,2026-08-08,Anand Motors,5054.45,No matching bank transaction found -- likely unpaid/pending
+INV0015,2026-08-02,Raj Hardware,26232.7,No matching bank transaction found -- likely unpaid/pending
+INV0007,2026-08-21,KONKFOOD,20091.32,No matching bank transaction found -- likely unpaid/pending
+INV0047,2026-08-18,Konkan Foods,25007.22,No matching bank transaction found -- likely unpaid/pending
+INV0065,2026-08-12,Global Spares Ltd,9952.15,No matching bank transaction found -- likely unpaid/pending
+INV0005,2026-08-07,SHARTEXT,4286.04,No matching bank transaction found -- likely unpaid/pending
+INV0063,2026-08-24,Patil Logistics,5783.29,No matching bank transaction found -- likely unpaid/pending
