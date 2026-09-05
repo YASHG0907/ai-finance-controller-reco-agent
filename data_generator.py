@@ -4,15 +4,6 @@ data_generator.py
 Generates SYNTHETIC bank statement + invoice ledger data for the
 AI Finance Controller reconciliation project.
 
-Why synthetic ground truth matters:
-The hackathon brief says "THE BAR: Throughput plus measured accuracy
-plus an honest exception list. One cherry-picked match proves nothing."
-
-To prove our accuracy honestly (not cherry-picked), we secretly know
-which bank transaction SHOULD match which invoice (ground_truth.csv).
-We never show this file to the matching engine -- we only use it
-afterwards, in evaluate.py, to grade ourselves the way a judge would.
-
 Run:
     python data_generator.py
 Outputs (in ./data/):
