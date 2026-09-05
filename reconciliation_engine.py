@@ -16,9 +16,6 @@ Matching strategy (simple, explainable -- good for judges):
   Each match gets a confidence score in [0, 1] built from those three
   signals so a human auditor can see *why* a match was made.
 
-Unmatched bank transactions and unmatched invoices become exceptions,
-each tagged with a human-readable reason.
-
 This file has NO hidden randomness and NO access to ground_truth.csv.
 It only uses bank_statement.csv and invoices.csv, exactly like a real
 finance-ops tool would.
