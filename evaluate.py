@@ -7,8 +7,6 @@ This is what turns "we built a matcher" into "we MEASURED our matcher"
    One cherry-picked match proves nothing."
 
 We compare the engine's matched.csv against the SECRET ground_truth.csv
-(which the engine never saw). This is a held-out test set in spirit:
-the engine has no way to have overfit to or peeked at these answers.
 
 Run AFTER reconciliation_engine.py:
     python evaluate.py
